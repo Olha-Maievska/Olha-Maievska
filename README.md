@@ -11,6 +11,10 @@ I'm Olha Maievska and I'm junior developer. For 3 years, I have been self-studyi
 ![Static Badge](https://img.shields.io/badge/react-blue?logo=react&logoColor=%23ffffff&labelColor=%23000) ![Static Badge](https://img.shields.io/badge/javascript-gold?logo=javascript&logoColor=%23ffffff)
 ![Static Badge](https://img.shields.io/badge/typescript-%231E90FF?logo=typescript&logoColor=%23ffffff) ![Static Badge](https://img.shields.io/badge/tailwindcss-%2300BFFF?logo=tailwindcss&logoColor=%23ffffff) ![Static Badge](https://img.shields.io/badge/RTK-%238A2BE2?logo=redux&logoColor=%23ffffff)
 
+### Portfolio
+
+[Gid.Group](https://olha-maievska.github.io/gid-group-react/)
+
 ![Olha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Olha-Maievska&show_icons=true&theme=transparent)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Olha-Maievska&layout=compact)](https://github.com/Olha-Maievska/github-readme-stats)
