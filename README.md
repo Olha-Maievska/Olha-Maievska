@@ -14,7 +14,8 @@ I'm Olha Maievska and I'm junior developer. For 3 years, I have been self-studyi
 ### Portfolio
 
 [Gid.Group](https://olha-maievska.github.io/gid-group-react/)
-[Dicantra](https://olha-maievska.github.io/DicentraApp/front)
+
+[Dicantra](https://dicantra.vercel.app/)
 
 ![Olha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Olha-Maievska&show_icons=true&theme=transparent)
 
