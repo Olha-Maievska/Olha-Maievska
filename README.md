@@ -17,6 +17,10 @@ Site: [Gid.Group](https://olha-maievska.github.io/gid-group-react/) Project: [Gi
 
 Site: [Dicentra](https://dicentra.vercel.app/) Project: [Dicentra](https://github.com/Olha-Maievska/Dicentra)
 
+### CV
+
+To view my resume, click [HERE](https://cv-olha-maievska.vercel.app/)
+
 ![Olha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Olha-Maievska&show_icons=true&theme=transparent)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Olha-Maievska&layout=compact)](https://github.com/Olha-Maievska/github-readme-stats)
