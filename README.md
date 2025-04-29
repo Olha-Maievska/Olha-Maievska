@@ -1,6 +1,6 @@
 ### Hi, I'm Olha 👋
 
-I'm Olha Maievska and I'm junior developer. For 3 years, I have been self-studying frontend development. I strive to continuously develop my skills and keep up with current trends in the field of technology. My goal is to create high-quality and user-friendly websites that bring joy and value to users.
+I'm Olha Maievska and I'm junior developer. For 5 years, I have been self-studying frontend development. I strive to continuously develop my skills and keep up with current trends in the field of technology. My goal is to create high-quality and user-friendly websites that bring joy and value to users.
 
 :mailbox: Reach me out:
 
@@ -19,7 +19,7 @@ Site: [Dicentra](https://dicentra.vercel.app/) Project: [Dicentra](https://githu
 
 ### CV
 
-To view my resume, click [HERE](https://cv-olha-maievska.vercel.app/)
+To view my website, click [HERE](https://olha-maievska-web.vercel.app/cz)
 
 ![Olha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Olha-Maievska&show_icons=true&theme=transparent)
 
