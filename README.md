@@ -17,7 +17,7 @@ Site: [Gid.Group](https://olha-maievska.github.io/gid-group-react/) Project: [Gi
 
 Site: [Dicentra](https://dicentra.vercel.app/) Project: [Dicentra](https://github.com/Olha-Maievska/Dicentra)
 
-### CV
+### Website
 
 To view my website, click [HERE](https://olha-maievska-web.vercel.app/cz)
 
